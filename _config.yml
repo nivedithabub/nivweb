@@ -1,0 +1,17 @@
+# Site settings
+
+title: Home
+email: nivedithabr@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This site has been built with the Jekyll static site generator and hosted on Github pages.
+
+
+baseurl: "nivweb"
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
